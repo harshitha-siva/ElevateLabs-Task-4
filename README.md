@@ -38,5 +38,4 @@ The demo focuses on **blocking Telnet (port 23)** for improved system security.
 
 ## 📝 Disclaimer
 This demo is for **educational purposes only**.  
-Avoid enabling Telnet in production systems—use **SSH** instead for secure remote access.
 
