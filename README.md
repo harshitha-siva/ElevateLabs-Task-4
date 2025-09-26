@@ -1,8 +1,8 @@
 # ElevateLabs-Task-4
 # 🔥 Windows Firewall Port Blocking Demo
 
-This repository demonstrates **network security hardening** by blocking insecure ports using **Windows Defender Firewall with Advanced Security**.  
-The demo focuses on **blocking Telnet (port 23)** for improved system security.
+Demonstration of **network security** by blocking insecure ports using **Windows Defender Firewall with Advanced Security**.  
+This demo particularly focuses on **blocking Telnet (port 23)** for improved system security.
 
 ---
 
